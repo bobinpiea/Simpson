@@ -1,6 +1,6 @@
 📺 Site Web – Les Simpson
 
-Ce projet a été réalisé dans le cadre de ma formation Développeur Web & Web Mobile chez Elan Formation.
+Ce projet a été réalisé dans le cadre de la formation Développeur Web & Web Mobile chez Elan Formation.
 
 ⸻
 
@@ -32,7 +32,7 @@ Le site se compose de plusieurs parties :
 
 🧠 Compétences développées
 
-Ce projet m’a permis de :
+Ce projet a permis de :
 	•	Découvrir et comprendre la structure d’un document HTML sémantique ;
 	•	Utiliser les balises principales pour organiser le contenu ;
 	•	Mettre en forme les éléments avec le CSS ;
